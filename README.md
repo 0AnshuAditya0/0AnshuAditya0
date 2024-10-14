@@ -1,9 +1,11 @@
 - 👋 Hi, I’m AnshuAditya
-- 👀 I’m interested in free style coding/ logic solving...
+- 👀
+-  I’m interested in free style coding/ logic solving...
 - 🌱 I’m currently learning Next and data structures
 - 💞️ I’m looking to collaborate 
-- 
-- 😄 Pronouns: He
+- Also i make discord bots and deploy them.
+- 😄
+-  Pronouns: He
   
 
 <!---
