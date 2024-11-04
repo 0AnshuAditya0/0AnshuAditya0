@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer specializing in React.js, Next.js, and Discord bot creation.  <br><br>I have a strong background in SQL and AI development, building efficient solutions.  <br><br>My work ranges from dynamic front-end experiences to intelligent automation systems.<br>  <br>I'm always learning and applying new technologies to deliver high-quality projects.  <br><br>Problem-solving and creativity drive me to push boundaries in web and AI development.
+I'm a Web Developer specializing in React, Next, and Discord bot creation.  <br><br>I have a strong background in SQL and AI development, building efficient solutions.  <br><br>My work ranges from dynamic front-end experiences to intelligent automation systems.<br>  <br>I'm always learning and applying new technologies to deliver high-quality projects.  <br><br>Problem-solving and creativity drive me to push boundaries in web and AI development.
 
 
 ## 🌐 Socials:
