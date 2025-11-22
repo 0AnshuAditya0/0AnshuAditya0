@@ -4,15 +4,15 @@ I'm a developer passionate about building intelligent systems and scalable appli
 
 🛠️ Tech Stack
 
-Languages & Frameworks
+Languages & Frameworks--
 Python, Java, React, Node.js
 
-AI/ML & Data Science
+AI/ML & Data Science--
 TensorFlow, PyTorch,
 NLP, Deep Learning
 
 
-Backend & APIs
+Backend & APIs--
 RESTful API design and development
 MongoDB, MySQL
 
@@ -23,5 +23,5 @@ I build end-to-end applications that combine modern web technologies with AI/ML 
 📫 Let's Connect
 Feel free to explore my repositories and reach out if you'd like to collaborate!
 
-Currently learning and exploring new technologies every day 🌱
+Currently learning and exploring new technologies every day 🌱.
 
